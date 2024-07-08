@@ -1,0 +1,1 @@
+C:\Windows\System32\cmd.exe /c cd "C:\Users\UMB\Documents\GitHub\palm_oil_segmentation_satelital_images\data" &&  labelme_export_json multi_recorte_1.json -o salida
