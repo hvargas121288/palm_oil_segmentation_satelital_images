@@ -1,10 +1,14 @@
 # Oil Palm Tree Detection and Segmentation using U-Net
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-blue?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-image](https://img.shields.io/badge/scikit--image-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tifffile](https://img.shields.io/badge/Tifffile-black?style=for-the-badge&logo=image&logoColor=white)
+![Pickle](https://img.shields.io/badge/Pickle-grey?style=for-the-badge&logo=python&logoColor=white)
+![Utils](https://img.shields.io/badge/Utils-blueviolet?style=for-the-badge)
+![Sutil](https://img.shields.io/badge/Sutil-green?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
