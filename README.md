@@ -126,8 +126,7 @@ git clone https://github.com/hvargas121288/oil-palm-detection.git
 2. **Data Preparation:** Images should be in high-resolution RGB format. The model uses a block-wise strategy to handle memory constraints.
 
 
-3. 
-**Training:** The script allows you to set the `$N_{filt}$` parameter to match your GPU capacity.
+3. **Training:** The script allows you to set the N_filt parameter to match your GPU capacity.
 
 
 
