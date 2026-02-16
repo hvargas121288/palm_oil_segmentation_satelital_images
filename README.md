@@ -16,35 +16,28 @@ Monitoring oil palm plantations is critical for sustainable agricultural practic
 
 **Key Features:**
 
-* 
-**Architecture:** Modified U-Net encoder-decoder with adjustable filter counts to optimize training time.
+* **Architecture:** Modified U-Net encoder-decoder with adjustable filter counts to optimize training time.
 
 
-* 
-**Input:** High-resolution RGB images ( m spatial resolution).
+* **Input:** High-resolution RGB images ( m spatial resolution).
 
 
-* 
-**Output:** Segmentation masks and tree counting based on the centroid of each segmented region.
+* **Output:** Segmentation masks and tree counting based on the centroid of each segmented region.
 
 
 
 ## 💻 Technical Specifications
 
-* 
-**Language:** Python 3.10.
+* **Language:** Python 3.10.
 
 
-* 
-**Hardware Environment:** AMD Ryzen 5 5600x CPU, 16 GB RAM, and NVIDIA RTX 4060 GPU (8 GB VRAM).
+* **Hardware Environment:** AMD Ryzen 5 5600x CPU, 16 GB RAM, and NVIDIA RTX 4060 GPU (8 GB VRAM).
 
 
-* 
-**Dataset:** 130-hectare plantation in Caquetá, Colombia.
+* **Dataset:** 130-hectare plantation in Caquetá, Colombia.
 
 
-* 
-**Image Size:**  pixels.
+* **Image Size:**  pixels.
 
 
 
@@ -84,12 +77,10 @@ The study evaluated how the number of base filters affects accuracy and training
 
 Experiments were conducted keeping model parameters fixed to identify the most efficient optimizer.
 
-* 
-**For :** **RMSprop** and **Adam** reached training accuracies above 99%.
+* **For :** **RMSprop** and **Adam** reached training accuracies above 99%.
 
 
-* 
-**For :** **RMSprop** delivered the best performance with 99.74% accuracy.
+* **For :** **RMSprop** delivered the best performance with 99.74% accuracy.
 
 
 
@@ -127,7 +118,7 @@ Final performance was measured using Precision (P), Recall (R), and Overall Accu
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/oil-palm-detection.git
+git clone https://github.com/hvargas121288/oil-palm-detection.git
 
 ```
 
@@ -142,25 +133,19 @@ git clone https://github.com/your-username/oil-palm-detection.git
 
 ## 📝 Authors
 
-* 
-**Hector Miguel Vargas García** - *Universidad Manuela Beltran*.
+* **Hector Miguel Vargas García** - *Universidad Manuela Beltran*.
 
 
-* 
-**Jose Alejandro Betancur Ramirez**.
+* **Jose Alejandro Betancur Ramirez**.
 
 
-* 
-**Ivan Fernando Bohorquez Hernandez**.
+* **Ivan Fernando Bohorquez Hernandez** - *Universidad Manuela Beltran*.
 
 
-* 
-**Ariolfo Camacho Velasco** - *AGROSAVIA*.
+* **Ariolfo Camacho Velasco** - *AGROSAVIA*.
 
 
-* 
-**Cesar Augusto Vargas García**.
-
+* **Cesar Augusto Vargas García**.
 
 
 ---
