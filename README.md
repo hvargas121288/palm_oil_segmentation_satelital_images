@@ -118,7 +118,7 @@ Final performance was measured using Precision (P), Recall (R), and Overall Accu
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/hvargas121288/oil-palm-detection.git
+https://github.com/hvargas121288/palm_oil_segmentation_satelital_images
 
 ```
 
