@@ -41,7 +41,7 @@ Monitoring oil palm plantations is critical for sustainable agricultural practic
 * **Dataset:** 130-hectare plantation in Tibaitatá - Mosquera, Colombia.
 
 
-* **Image Size:**  pixels.
+* **Image Size:** 65025 pixels.
 
 
 
