@@ -53,29 +53,7 @@ Monitoring oil palm plantations is critical for sustainable agricultural practic
 
 The study evaluated how the number of base filters affects accuracy and training time. While  achieved the highest accuracy, lower configurations (like ) offered an excellent balance for limited hardware.
 
-|  | Training Acc. | Total Time (s) | Trainable Parameters |
-| --- | --- | --- | --- |
-| 4 | 0.984 
-
- | 1502.8 
-
- | 121,725 
-
- |
-| 16 | 0.996 
-
- | 4369.5 
-
- | 1,941,105 
-
- |
-| 32 | 0.998 
-
- | 8980.8 
-
- | 7,760,097 
-
- |
+![App Screenshot](img/table_1_traning.png)
 
 ### 2. Optimizer Comparison
 
@@ -92,31 +70,7 @@ Experiments were conducted keeping model parameters fixed to identify the most e
 
 Final performance was measured using Precision (P), Recall (R), and Overall Accuracy (OA).
 
-|  | Precision (P) | Recall (R) | OA (Overall) |
-| --- | --- | --- | --- |
-| 6 | 93.9% 
-
- | 99.1% 
-
- | 96.5% 
-
- |
-| 8 | 94.9% 
-
- | 99.6% 
-
- | 97.2% 
-
- |
-| 16 | 95.5% 
-
- | 99.4% 
-
- | 97.5% 
-
- |
-
----
+![App Screenshot](img/table_3_testing.png)
 
 ## 🚀 Setup and Usage
 
