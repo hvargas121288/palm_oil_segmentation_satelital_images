@@ -38,7 +38,7 @@ Monitoring oil palm plantations is critical for sustainable agricultural practic
 * **Hardware Environment:** AMD Ryzen 5 5600x CPU, 16 GB RAM, and NVIDIA RTX 4060 GPU (8 GB VRAM).
 
 
-* **Dataset:** 130-hectare plantation in Caquetá, Colombia.
+* **Dataset:** 130-hectare plantation in Tibaitatá - Mosquera, Colombia.
 
 
 * **Image Size:**  pixels.
