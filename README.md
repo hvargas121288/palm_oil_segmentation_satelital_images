@@ -53,7 +53,9 @@ Monitoring oil palm plantations is critical for sustainable agricultural practic
 
 The study evaluated how the number of base filters affects accuracy and training time. While  achieved the highest accuracy, lower configurations (like ) offered an excellent balance for limited hardware.
 
-![App Screenshot](img/table_1_traning.png)
+![Table](img/table_1_traning.png)
+
+![Table](img/table_3_testing.png)
 
 ### 2. Optimizer Comparison
 
@@ -65,12 +67,14 @@ Experiments were conducted keeping model parameters fixed to identify the most e
 * **For :** **RMSprop** delivered the best performance with 99.74% accuracy.
 
 
+![Table](img/table_optimizer.png)
+
 
 ### 3. Detection Performance (Testing)
 
 Final performance was measured using Precision (P), Recall (R), and Overall Accuracy (OA).
 
-![App Screenshot](img/table_3_testing.png)
+![Table](img/table_final.png)
 
 ## 🚀 Setup and Usage
 
