@@ -96,15 +96,13 @@ pip install -r requirements.txt
 
 * **Hector Miguel Vargas García** - *Universidad Manuela Beltran*.
 
+*  **Ivan Fernando Bohorquez Hernandez** - *Universidad Manuela Beltran*.
+  
+*  **Sergio Santiago Quimbaya Rodríguez** - *Universidad Manuela Beltran*.
 
 * **Jose Alejandro Betancur Ramirez**.
 
-
-* **Ivan Fernando Bohorquez Hernandez** - *Universidad Manuela Beltran*.
-
-
 * **Ariolfo Camacho Velasco** - *AGROSAVIA*.
-
 
 * **Cesar Augusto Vargas García**.
 
