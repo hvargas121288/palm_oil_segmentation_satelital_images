@@ -79,12 +79,16 @@ Final performance was measured using Precision (P), Recall (R), and Overall Accu
 https://github.com/hvargas121288/palm_oil_segmentation_satelital_images
 
 ```
+2. **Install dependencies:**
+```bash
+pip install -r requirements.txt
+
+```
+
+3. **Data Preparation:** Images should be in high-resolution RGB format. The model uses a block-wise strategy to handle memory constraints.
 
 
-2. **Data Preparation:** Images should be in high-resolution RGB format. The model uses a block-wise strategy to handle memory constraints.
-
-
-3. **Training:** The script allows you to set the N_filt parameter to match your GPU capacity.
+4. **Training:** The script allows you to set the N_filt parameter to match your GPU capacity.
 
 
 
