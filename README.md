@@ -49,15 +49,7 @@ Monitoring oil palm plantations is critical for sustainable agricultural practic
 
 ## 🔬 Experiments and Results
 
-### 1. Filter Variation ()
-
-The study evaluated how the number of base filters affects accuracy and training time. While  achieved the highest accuracy, lower configurations (like ) offered an excellent balance for limited hardware.
-
-![Table](img/table_1_traning.png)
-
-![Table](img/table_3_testing.png)
-
-### 2. Optimizer Comparison
+### 1. Optimizer Comparison
 
 Experiments were conducted keeping model parameters fixed to identify the most efficient optimizer.
 
@@ -69,6 +61,13 @@ Experiments were conducted keeping model parameters fixed to identify the most e
 
 ![Table](img/table_optimizer.png)
 
+### 2. Filter Variation ()
+
+The study evaluated how the number of base filters affects accuracy and training time. While  achieved the highest accuracy, lower configurations (like ) offered an excellent balance for limited hardware.
+
+![Table](img/table_1_traning.png)
+
+![Table](img/table_3_testing.png)
 
 ### 3. Detection Performance (Testing)
 
