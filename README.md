@@ -104,7 +104,7 @@ pip install -r requirements.txt
 
 * **Ariolfo Camacho Velasco** - *AGROSAVIA*.
 
-* **Cesar Augusto Vargas García**.
+* **Cesar Augusto Vargas García** - *AGROSAVIA*.
 
 
 ---
